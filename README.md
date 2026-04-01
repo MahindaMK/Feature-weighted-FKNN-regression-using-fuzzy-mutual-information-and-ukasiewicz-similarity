@@ -1,4 +1,4 @@
-# Feature-weighted-FKNN-regression-using-fuzzy-mutual-information-and-ukasiewicz-similarity
+# Feature-weighted-FKNN-regression-using-fuzzy-mutual-information-and-Lukasiewicz-similarity
 
 This is a new method to the family of fuzzy k-nearest neighbor (FKNN) regression based on the use of feature weights and Minkowski distance. This method is called feature-weighted Minkowski distance-based fuzzy $k$-nearest neighbor regression method (FWMD-FKNNreg). 
 
